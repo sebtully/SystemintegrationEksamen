@@ -1,0 +1,11 @@
+{
+  "messageType": "MembershipStatusResponse",
+  "correlationId": "<unik-id-for-transaktionen>",
+  "payload": {
+    "personId": "<personens-unikke-id>",
+    "isMember": true,
+    "membershipType": "Active"
+  },
+  "timestamp": "<tidspunkt>"
+}
+
